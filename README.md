@@ -27,4 +27,4 @@
 
 <img src="https://i.ibb.co/TKbfHZj/Screenshot-20220227-152647.png" height="600" width="300" hspace="40"><img src="https://i.ibb.co/L8TD8sV/Screenshot-20220227-152553.png" height="600" width="300" hspace="40">
 
-<img src="https://ibb.co/JyPCx5h"><img src="https://i.ibb.co/xfQ3mJ4/Screenshot-20220227-152708.png" height="600" width="300" hspace="40">
+<img src="https://i.ibb.co/xfQ3mJ4/Screenshot-20220227-152708.png" height="600" width="300" hspace="40">
