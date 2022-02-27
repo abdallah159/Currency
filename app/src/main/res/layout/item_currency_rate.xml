@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/light_grey"
+    android:layout_margin="4dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/dateTV"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_height="wrap_content"
+        android:text="Date : "/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/black"
+        android:id="@+id/fromTV"
+        android:textSize="16sp"
+        android:layout_height="wrap_content"
+        android:text="from : "/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:id="@+id/toTV"
+        android:textSize="16sp"
+        android:layout_marginTop="6dp"
+        android:layout_height="wrap_content"
+        android:text="to : "/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:id="@+id/amountTV"
+        android:layout_marginTop="6dp"
+        android:layout_height="wrap_content"
+        android:text="Amount : "/>
+
+
+
+</LinearLayout>
